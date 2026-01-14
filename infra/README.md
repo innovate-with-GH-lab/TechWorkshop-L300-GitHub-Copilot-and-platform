@@ -2,6 +2,8 @@
 
 This directory contains the Azure infrastructure as code using Bicep templates and Azure Developer CLI (AZD) configuration.
 
+Small change to update a branch for a pull request.
+
 ## Architecture Overview
 
 The infrastructure includes the following Azure resources:
